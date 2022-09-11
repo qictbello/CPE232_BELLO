@@ -3,6 +3,6 @@
   become: true
   tasks:
 
-  - name: install apache2 package
+  - name: install randomnameiancute package
     apt:
       name: apache2
