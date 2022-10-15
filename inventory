@@ -8,3 +8,6 @@ server3
 
 [file_servers]
 servercent
+
+[workstations]
+server1
